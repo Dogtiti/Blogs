@@ -5,3 +5,4 @@
 
 2.[函数定义方式以及区别](https://github.com/Dogtiti/Blogs/issues/3)
 
+3.[Import动态引用模块](https://github.com/Dogtiti/Blogs/issues/5)
