@@ -11,3 +11,5 @@
 
 5.[falsy(虚值)](https://github.com/Dogtiti/Blogs/issues/9)
 
+6.[Object.defineProperty()](https://github.com/Dogtiti/Blogs/issues/11)
+
