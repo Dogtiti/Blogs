@@ -13,6 +13,9 @@
 
 6.[Object.defineProperty()](https://github.com/Dogtiti/Blogs/issues/11)
 
+7.[Map()、Reduce()与ForEach()的区别](https://github.com/Dogtiti/Blogs/issues/17)
+
+
 
 ## 前端专题系列
 
