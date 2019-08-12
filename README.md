@@ -15,6 +15,9 @@
 
 7.[Map()、Reduce()与ForEach()的区别](https://github.com/Dogtiti/Blogs/issues/17)
 
+8.[常用正则表达式](https://github.com/Dogtiti/Blogs/issues/27)
+
+
 
 
 ## 前端专题系列
