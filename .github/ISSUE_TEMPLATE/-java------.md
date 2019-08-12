@@ -1,8 +1,8 @@
 ---
-name: "<Java>-[专题]"
-about: Java专题
+name: "<Java>-[随笔]"
+about: Java随笔
 title: ''
-labels: Java-专题
+labels: ''
 assignees: ''
 
 ---
