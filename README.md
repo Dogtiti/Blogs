@@ -17,6 +17,9 @@
 
 8.[常用正则表达式](https://github.com/Dogtiti/Blogs/issues/27)
 
+9.[25个常用单行JavaScript代码](https://github.com/Dogtiti/Blogs/issues/29)
+
+
 
 
 
