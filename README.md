@@ -20,18 +20,9 @@
 9.[25个常用单行JavaScript代码](https://github.com/Dogtiti/Blogs/issues/29)
 
 
-
-
-
-## 前端专题系列
-
-
 ## 前端框架系列
 1.[React生命周期图](https://github.com/Dogtiti/Blogs/issues/21)
 
-## Java随笔系列
-
-## Java专题系列
 
 ## 资源工具
 1.[web浏览器兼容性查询网站](https://github.com/Dogtiti/Blogs/issues/13)
