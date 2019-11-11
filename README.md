@@ -19,6 +19,7 @@
 
 9.[25个常用单行JavaScript代码](https://github.com/Dogtiti/Blogs/issues/29)
 
+10.[Lodash 源码中的细节](https://github.com/Dogtiti/Blogs/issues/31)
 
 ## 前端框架系列
 1.[React生命周期图](https://github.com/Dogtiti/Blogs/issues/21)
