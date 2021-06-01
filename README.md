@@ -21,6 +21,14 @@
 
 10.[Lodash 源码中的细节](https://github.com/Dogtiti/Blogs/issues/31)
 
+11.[组件中定义的函数this是什么？通过bind和箭头函数怎么添加到类的实例对象上并直接使用 ](https://github.com/Dogtiti/Blogs/issues/33)
+
+12.[为什么不能直接修改state，immutable的state和默认的有什么不同？state和props的使用场景分别是怎么的？](https://github.com/Dogtiti/Blogs/issues/34)
+
+13.[Key值的相关问题](https://github.com/Dogtiti/Blogs/issues/35)
+
+14.[ES6对象的结构赋值的重命名 、react的生命周期](https://github.com/Dogtiti/Blogs/issues/36)
+
 ## 前端框架系列
 1.[React生命周期图](https://github.com/Dogtiti/Blogs/issues/21)
 
