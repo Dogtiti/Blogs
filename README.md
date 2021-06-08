@@ -31,6 +31,13 @@
 
 15.[数据的初始化](https://github.com/Dogtiti/Blogs/issues/38)
 
+16.[setState是同步还是异步的](https://github.com/Dogtiti/Blogs/issues/39)
+
+17.[父子组件兄弟组件之间的传值](https://github.com/Dogtiti/Blogs/issues/40)
+
+18.[在react中是如何发送ajax请求的](https://github.com/Dogtiti/Blogs/issues/41)
+
+
 ## 前端框架系列
 1.[React生命周期图](https://github.com/Dogtiti/Blogs/issues/21)
 
