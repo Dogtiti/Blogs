@@ -29,6 +29,8 @@
 
 14.[ES6对象的结构赋值的重命名 、react的生命周期](https://github.com/Dogtiti/Blogs/issues/36)
 
+15.[数据的初始化](https://github.com/Dogtiti/Blogs/issues/38)
+
 ## 前端框架系列
 1.[React生命周期图](https://github.com/Dogtiti/Blogs/issues/21)
 
